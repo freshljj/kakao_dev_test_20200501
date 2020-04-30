@@ -1,0 +1,4 @@
+create table uniqe_id_lst(
+unique_id varchar2(20) primary key,
+rmk varchar2(200) 
+)
